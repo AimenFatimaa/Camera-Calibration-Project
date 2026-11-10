@@ -33,6 +33,25 @@ The implementation uses computer vision and linear algebra techniques to establi
 - Establishment of corresponding 3D world coordinates.
 - Estimation of the projection matrix using SVD.
 - Recovery of the camera position.
+## Results and Visualizations
+
+### 1. 3D Camera Visualization
+
+This figure illustrates the 3D world points, camera position, and camera orientation.
+
+![3D Camera Visualization](Images/3D%20Visualization.png)
+
+### 2. 2D Camera Projection
+
+This figure shows the projection of 3D world points onto the 2D image plane.
+
+![2D Camera Projection](Images/2D%20Visualization.png)
+
+### 3. Original Input Image
+
+The original image used for manual selection of corresponding pixel coordinates.
+
+![Original Input Image](Images/dl_image.png)
 
 ## Libraries Used
 - Python
