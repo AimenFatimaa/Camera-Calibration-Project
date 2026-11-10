@@ -45,7 +45,7 @@ This figure illustrates the 3D world points, camera position, and camera orienta
 
 This figure shows the projection of 3D world points onto the 2D image plane.
 
-![2D Camera Projection](Images/2D%20Visualization.png)
+![2D Camera Projection](Images/2D%20visualization.png)
 
 ### 3. Original Input Image
 
